@@ -2,7 +2,15 @@ id: e5248654f5e44f8e9216f3f38ed75ee8
 initial_creation_type: ocr
 source_metadata:
   work_id: W1PD95844
-  img_grp_offset: 845
-  pref: I1PD95
+  id: bdr:W4CZ5369
+  title: བཀའ་འགྱུར ༼སྡེ་དགེ༽
+  publication: སྡེ་དགེ་པར་ཁང་།
+  author: ''
+  volumes:
+    c4c64b7e3a714a4ab3db3375a7c22196:
+      image_group_id: I1PD95
+      title: ''
+      base_file: v001.txt
+      total_pages: 8
 vol2fn:
   v001: v001.txt
