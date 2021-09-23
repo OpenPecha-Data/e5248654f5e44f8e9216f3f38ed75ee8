@@ -15,7 +15,7 @@ annotations:
     page_info: ''
     reference: null
     span:
-      start: 752
+      start: 750
       end: 2026
     note_ref: 4a129b7d3a234935afb727e3e315d502
   06bcbd83e28d44c5a03c7a723cf013b7:
@@ -23,7 +23,7 @@ annotations:
     page_info: ''
     reference: null
     span:
-      start: 2029
+      start: 2027
       end: 2522
     note_ref: 4a129b7d3a234935afb727e3e315d502
   4a129b7d3a234935afb727e3e315d502:
@@ -31,7 +31,7 @@ annotations:
     page_info: ''
     reference: null
     span:
-      start: 2525
+      start: 2523
       end: 3519
 local_ids:
   7da03114a5854a278d01c4b15961482c: 200000
